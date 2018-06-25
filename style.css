@@ -31,3 +31,26 @@ td, th{
 border: 1px solid;
 padding: 10px;
 }
+
+table{
+    width: 60%;
+    align-content: center;
+    background-color: white;
+    position: relative;
+    border: 1px solid;
+    border-collapse: collapse;
+
+}
+
+thead{
+    background-color:rgba(0, 255, 234, 0.973);
+}
+
+tr:nth-child(even){
+    background-color: grey;
+}
+
+caption{
+    font-size: 20px;
+    font-weight: bolder; 
+}
