@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(17, 0, 255, 0.178);
+    background-image: url('Dope city.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+p{
+    color:red;
+    background-color: rgb(67, 38, 121);
+    text-align: center;
+}
+
+
+#Soccer{
+    color:black;
+    background-color: rgba(28, 186, 92, 0);
+}
+
+.BigShaq{
+    color: rgb(28, 182, 92);
+    font-size: 16px;
+    text-align: center;
+}
+
+table{
+    position: sticky;
+}
+
+td, th{
+border: 1px solid;
+padding: 10px;
+}
